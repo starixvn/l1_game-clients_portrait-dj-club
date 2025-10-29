@@ -438,6 +438,9 @@ export const languages = {
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง",
         "Close": "ปิด"
+    },
+    "djClub": {
+        "gameNames.65": "DJ Club"
     }
 };
 
