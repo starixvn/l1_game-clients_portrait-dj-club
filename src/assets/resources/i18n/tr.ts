@@ -439,8 +439,9 @@ export const languages = {
         "Unexpected_gift_code_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "Close": "Kapat"
     },
-    "djClub": {
-        "gameNames.65": "DJ Kulübü"
+    "DJClub": {
+        "game_name": "DJ Kulübü",
+        "game_icon_name": "DJ Kulübü"
     }
 };
 

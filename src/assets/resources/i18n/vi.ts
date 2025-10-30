@@ -439,8 +439,9 @@ export const languages = {
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
         "Close": "Đóng"
     },
-    "djClub": {
-        "gameNames.65": "DJ Club"
+    "DJClub": {
+        "game_name": "DJ Club",
+        "game_icon_name": "DJ Club"
     }
 };
 

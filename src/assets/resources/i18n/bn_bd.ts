@@ -439,8 +439,9 @@ export const languages = {
         "Unexpected_gift_code_error_message": " অপ্রত্যাশিত ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।",
         "Close": "বন্ধ"
     },
-    "djClub": {
-        "gameNames.65": "DJ Club"
+    "DJClub": {
+        "game_name": "DJ Club",
+        "game_icon_name": "DJ Club"
     }
 };
 

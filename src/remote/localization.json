@@ -1,4 +1,36 @@
 {
-    "lobbyNames": {},
-    "gameNames": {}
+    "lobbyNames": {
+        "en": "DJ Club",
+        "th": "DJ Club",
+        "id": "DJ Club",
+        "vi": "DJ Club",
+        "zh_cn": "DJ俱乐部",
+        "zh_tw": "DJ俱樂部",
+        "ja": "DJ Club",
+        "es": "DJ Club",
+        "tr": "DJ Kulübü",
+        "fil_ph": "DJ Club",
+        "pt_br": "Clube DJ",
+        "ko": "DJ 클럽",
+        "bn_bd": "DJ Club",
+        "hi_in": "DJ Club",
+        "ms_my": "DJ Club"
+    },
+    "gameNames": {
+        "en": "DJ Club",
+        "th": "DJ Club",
+        "id": "DJ Club",
+        "vi": "DJ Club",
+        "zh_cn": "DJ俱乐部",
+        "zh_tw": "DJ俱樂部",
+        "ja": "DJ Club",
+        "es": "DJ Club",
+        "tr": "DJ Kulübü",
+        "fil_ph": "DJ Club",
+        "pt_br": "Clube DJ",
+        "ko": "DJ 클럽",
+        "bn_bd": "DJ Club",
+        "hi_in": "DJ Club",
+        "ms_my": "DJ Club"
+    }
 }

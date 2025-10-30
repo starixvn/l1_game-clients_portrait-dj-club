@@ -439,8 +439,9 @@ export const languages = {
         "Unexpected_gift_code_error_message": "예기치 않은 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
         "Close": "닫기"
     },
-    "djClub": {
-        "gameNames.65": "DJ 클럽"
+    "DJClub": {
+        "game_name": "DJ 클럽",
+        "game_icon_name": "DJ 클럽"
     }
 };
 

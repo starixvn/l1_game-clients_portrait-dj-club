@@ -439,8 +439,9 @@ export const languages = {
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later.",
         "Close": "Close"
     },
-    "djClub": {
-        "gameNames.65": "DJ Club"
+    "DJClub": {
+        "game_name": "DJ Club",
+        "game_icon_name": "DJ Club"
     }
 };
 

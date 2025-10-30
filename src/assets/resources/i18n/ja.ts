@@ -439,8 +439,9 @@ export const languages = {
         "Unexpected_gift_code_error_message": "予期せぬエラーが発生しました。後ほどもう一度お試しください。",
         "Close": "閉じる"
     },
-    "djClub": {
-        "gameNames.65": "DJ Club"
+    "DJClub": {
+        "game_name": "DJ Club",
+        "game_icon_name": "DJ Club"
     }
 };
 

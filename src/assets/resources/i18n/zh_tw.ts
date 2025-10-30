@@ -439,8 +439,9 @@ export const languages = {
         "Unexpected_gift_code_error_message": "發生意外錯誤。請稍後重試。",
         "Close": "關閉"
     },
-    "djClub": {
-        "gameNames.65": "DJ俱樂部"
+    "DJClub": {
+        "game_name": "DJ俱樂部",
+        "game_icon_name": "DJ俱樂部"
     }
 };
 
