@@ -1,8 +1,8 @@
 {
-"skeleton": { "hash": "QmjWIa6jBKZyZrHYDb3/NdIsy9k", "spine": "3.8.99", "x": -111.59, "y": -273.28, "width": 227.44, "height": 546.85 },
+"skeleton": { "hash": "XOajNfKxLLjgUtjjSCGbCNzmkoE", "spine": "3.8.99", "x": -111.59, "y": -279.94, "width": 227.44, "height": 560.19 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "Peekeffectall", "parent": "root", "scaleX": 2, "scaleY": 2 },
+	{ "name": "Peekeffectall", "parent": "root", "scaleX": 2, "scaleY": 2.0488 },
 	{ "name": "peekeffectbg", "parent": "Peekeffectall" },
 	{ "name": "peek", "parent": "peekeffectbg" },
 	{ "name": "musicwave", "parent": "Peekeffectall", "y": -112.23, "scaleX": 0.8584, "scaleY": 0.9039 },
@@ -599,7 +599,7 @@
 				"path": {
 					"type": "path",
 					"closed": true,
-					"lengths": [ 153.65, 602.34, 757.47, 1206.62 ],
+					"lengths": [ 153.65, 613.29, 768.41, 1228.52 ],
 					"vertexCount": 12,
 					"vertices": [ -202.05, 137.79, -203.52, 205.45, -164.32, 205.62, 132.48, 206.34, 207.9, 205.27, 207.35, 125.68, 208.82, -119.04, 215.67, -203.91, 80.06, -205.27, -132.74, -204.21, -199.7, -204.16, -199.92, -161.72 ]
 				}
@@ -608,7 +608,7 @@
 				"path": {
 					"type": "path",
 					"closed": true,
-					"lengths": [ 153.65, 602.34, 757.47, 1206.62 ],
+					"lengths": [ 153.65, 613.29, 768.41, 1228.52 ],
 					"vertexCount": 12,
 					"vertices": [ -202.05, 137.79, -203.52, 205.45, -164.32, 205.62, 132.48, 206.34, 207.9, 205.27, 207.35, 125.68, 208.82, -119.04, 215.67, -203.91, 80.06, -205.27, -132.74, -204.21, -199.7, -204.16, -199.92, -161.72 ]
 				}
