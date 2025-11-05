@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "dialog-bonus",
+    "_name": "symbols",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_native": "",
@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "dialog-bonus",
+    "_name": "symbols",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": null,
@@ -1796,6 +1796,8 @@
       "__id__": 0
     },
     "fileId": "68e7Xay71ONaxeljceS1XH",
+    "instance": null,
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
