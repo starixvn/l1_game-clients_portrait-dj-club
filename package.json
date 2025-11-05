@@ -1,25 +1,25 @@
 {
-    "name": "game-client-template",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "node server.js",
-        "dev": "node server.js",
-        "generate-tolgee-data": "ts-node ./tolgee-generator/index.ts",
-        "new-generate-tolgee": "npx tolgee-generator ./tolgee-generator/tolgee.json"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "compression": "^1.7.4",
-        "ejs": "^3.1.10",
-        "express": "^4.18.2"
-    },
-    "devDependencies": {
-        "@cli/tolgee-generator": "^1.1.5",
-        "@tolgee/web": "^5.10.1",
-        "ts-node": "^10.9.2"
-    }
+  "name": "game-client-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "generate-tolgee-data": "ts-node ./tolgee-generator/index.ts",
+    "new-generate-tolgee": "npx tolgee-generator ./tolgee-generator/tolgee.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "ejs": "^3.1.10",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@cli/tolgee-generator": "^1.1.5",
+    "@tolgee/web": "^5.10.1",
+    "ts-node": "^10.9.2"
+  }
 }

@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Ganho Total",
         "Unexpected_gift_code_error_message": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
         "Close": "Fechar"
+    },
+    "DJClub": {
+        "game_name": "Clube DJ",
+        "game_icon_name": "Clube DJ"
     }
 };
 

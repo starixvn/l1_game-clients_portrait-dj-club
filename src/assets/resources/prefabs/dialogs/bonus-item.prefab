@@ -134,12 +134,12 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 202,
-      "height": 178.58999633789062
+      "height": 161.27000427246094
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
       "x": 0.5,
-      "y": 0.4815499286829526
+      "y": 0.5008370713912047
     },
     "_id": ""
   },
@@ -174,7 +174,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "entry",
+    "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -308,8 +308,8 @@
     "_string": "",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 30,
-    "_fontSize": 32,
+    "_actualFontSize": 24,
+    "_fontSize": 24,
     "_fontFamily": "Arial",
     "_lineHeight": 36,
     "_overflow": 2,
@@ -363,8 +363,6 @@
       "__id__": 0
     },
     "fileId": "05REoqVOlB+oRRLhXzdMms",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
